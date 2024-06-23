@@ -1,5 +1,5 @@
 ### SW_Air_Pollution_Project
-# Baggy-Jean
+# Baggy-Jeans
 ---
 지역 사회의 대기질 향상을 위한, 차량 오염 물질로 발생하는 대기오염 정보를 제공하는 인포그래픽 서비스
 
